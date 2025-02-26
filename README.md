@@ -20,7 +20,7 @@ To view the project locally, you can either open the project files in your code 
 ### Tasks
 
 Inside `index.html`:
-- [ ] Replace the content of the title tag to `About Me`
+- [ X] Replace the content of the title tag to `About Me`
 - [ ] Create a `<h1>` tag and place your name inside the element.
 - [ ] Create a `<hr>` tag underneath your `<h1>`
 - [ ] Create a `<h2>` tag with the content of `My Hobbies`.
